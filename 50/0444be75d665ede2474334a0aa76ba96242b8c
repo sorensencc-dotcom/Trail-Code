@@ -1,0 +1,22 @@
+test/graph-root.test.ts
+  s_9317b307c38c04::t_b94c8fe706dd74 30-35,63-73
+  s_9317b307c38c04::t_05ece8d56313ae 74-75
+src/graph/root.ts
+  s_9317b307c38c04::t_b94c8fe706dd74 4-8,17,34-45,49,53,55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "500444be75d665ede2474334a0aa76ba96242b8c",
+  "prompts": {},
+  "sessions": {
+    "s_9317b307c38c04": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a197a5-25e0-7f81-84cd-1d833069d65d",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Chris Sorensen <sorensencc@gmail.com>"
+    }
+  }
+}
